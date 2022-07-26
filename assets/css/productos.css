@@ -1,0 +1,26 @@
+    ul.barramenu 
+                {
+                  font-size: 25px;
+                  font-family: Arial, Helvetica, sans-serif; 
+                  list-style-type: none; color: black; 
+                  margin-bottom: 25px;
+                  text-align: center;
+                }
+   li 
+     {
+      background-color: #f1f4f8;
+      border: #020100 2px solid;
+      display: inline;
+      margin-right: 10px;
+      padding: 0 4px;
+     }
+
+   footer.footer13
+                  {
+                    background-color: steelblue;
+                    padding: 1em 0;
+                    text-align: center;
+                    position: absolute;
+                    bottom: 0;
+                    width: 100%;
+                  }
